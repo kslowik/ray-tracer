@@ -16,6 +16,6 @@ So instead I focused on adding more features.
 ## Usage
 ```
 $ cargo build --release
-$ ./target/release/raytracer data/example_scene.json picture.png
+$ ./target/release/raytracer data/test_scene.json picture.png
 ```
 I recommend trying to create picture from impressive_scene.json and/or trying to make your own scene.
